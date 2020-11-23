@@ -2,8 +2,8 @@
 ## GitHub - Getting Started
 
 ### Ínicio
-- Criar uma conta em github.com;
-- Instalar a ferramenta git (https://git-scm.com/downloads);
+- Criar uma conta GitHub em https://github.com;
+- Instalar a ferramenta Git (https://git-scm.com/downloads);
 ### Criar e clonar um repositório
 - Criar um repositório no GitHub;
 - Selecionar uma pasta no computador e abrir a linha de comandos;
