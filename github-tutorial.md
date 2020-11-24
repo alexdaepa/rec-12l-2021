@@ -28,7 +28,7 @@
 
 - Commit das alterações locais para o repositório GitHub
 
-`git add all`
+`git add *`
 
 `git commit -m "Mensagem de Commit"`
 
