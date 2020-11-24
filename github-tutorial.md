@@ -14,9 +14,9 @@
 `git config --global user.email "Email GitHub"`
 - Verificar que a configuração foi bem efetuada através dos seguintes comandos:
 
-`git --global user.name`
+`git config user.name`
 
-`git --global user.email`
+`git config user.email`
 
 - Clonar o repositório criado através do seguinte comando:
 
