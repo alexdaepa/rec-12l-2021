@@ -8,6 +8,13 @@ Bastante útil para estilizar elementos como botões, links, etc.
 
 **Toda a documentação relativa ao Bootstrap pode ser acedida em https://getbootstrap.com/docs/4.5/getting-started/introduction/.**
 
+#### Utilização
+
+Para começar a utilizar Bootstrap nos documentos HTML, basta incluir a seguinte instrução dentro da tag <head>:
+  
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+
+
 #### Grid System
 
 O Bootstrap utiliza um sistema de 12 colunas dentro de cada linha(aceder a https://getbootstrap.com/docs/4.0/layout/grid/).
